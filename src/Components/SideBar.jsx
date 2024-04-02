@@ -28,7 +28,7 @@ const SideBar = () => {
         <div className="flex">
           <img
             alt="Logo hospital"
-            src="src/assets/images/logo hospital.png"
+            src="src/assets/images/logo hospital.jpg"
             className={`flex cursor-pointer w-24 duration-500 ${
               !abrir && " rotate-[300deg] duration-500 "
             }`}

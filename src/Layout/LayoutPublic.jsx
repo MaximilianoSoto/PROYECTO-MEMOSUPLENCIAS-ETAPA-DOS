@@ -32,7 +32,7 @@ const LayoutPublic = () => {
             </h1>
             <img
               alt="Logo ministerio"
-              src="src/assets/images/logo ministerio.png"
+              src="src/assets/images/logo ministerio.jpg"
               className=" mr-3 w-36 "
             />
           </div>
