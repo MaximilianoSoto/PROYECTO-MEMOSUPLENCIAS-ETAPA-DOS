@@ -31,7 +31,8 @@ const LayoutPublic = () => {
               {headerTitle}
             </h1>
             <img
-              src="src\assets\images\logo ministerio.png"
+              alt="Logo ministerio"
+              src="src/assets/images/logo ministerio.png"
               className=" mr-3 w-36 "
             />
           </div>

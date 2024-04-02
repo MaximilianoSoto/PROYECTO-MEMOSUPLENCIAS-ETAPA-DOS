@@ -14,10 +14,10 @@ SE MUESTRA IMAGEN DE DOCUMENTO LEGAL SOBRE MEMO-SUPLENCIA
       <div className=" w-full  h-screen  ">
         <div className="flex justify-center items-center h-screen ">
           <img
+            alt="Reglamento Ministerio de salud"
             src="src/assets/images/Captura de pantalla 2023-02-02 103022.png"
-            className="border-2 border-black w-auto "
+            className="border-2 border-black w-auto"
           />
-
           <div className=" grid place-content-center">
             <h1 className="text-6xl font-bold p-5">
               {" "}
